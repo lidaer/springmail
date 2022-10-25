@@ -1,0 +1,21 @@
+spring:
+  # ????
+  mail:
+    # ???????
+    host: smtp.qq.com
+    # ??????
+    username: 2795656376@qq.com
+    # ???
+    password: cbuupkwnvgjddgfd
+    # ????
+    default-encoding: utf-8
+    # ??
+    protocol: smtp
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+
