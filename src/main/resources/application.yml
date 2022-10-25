@@ -4,9 +4,9 @@ spring:
     # ???????
     host: smtp.qq.com
     # ??????
-    username: 2795656376@qq.com
+    username: 你的邮箱
     # ???
-    password: cbuupkwnvgjddgfd
+    password: 邮箱授权码
     # ????
     default-encoding: utf-8
     # ??
